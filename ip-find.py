@@ -31,8 +31,8 @@ print "Vgla DDoS - Made By Vgla"
 print "YouTube: https://www.youtube.com/@VglaRat"
 print "GitHub: https://github.com/Vgla7"
 print 
-print "Descobrir Ip Do Site!"
-print "não coloque HTTPS, WWW ou HTTP!!!"
+print "Descobrir Ip Do Site"
+print "Coloque Apenas O Nome Do Site E O Sufixo"
 print
 ip = raw_input("Nome Do Site: ")
 
