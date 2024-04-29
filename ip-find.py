@@ -32,7 +32,7 @@ print "YouTube: https://www.youtube.com/@VglaRat"
 print "GitHub: https://github.com/Vgla7"
 print 
 print "Descobrir Ip Do Site!"
-print "(não coloque HTTPS/WWW ou HTTP)"
+print "(não coloque HTTPS, WWW ou HTTP)"
 print
 ip = raw_input("Nome Do Site: ")
 
