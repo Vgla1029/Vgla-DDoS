@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-print "d    b   sSSSs   d      d s.        d ss    d ss      sSSSs     sss. 
+print "d    b   sSSSs   d      d s.        d ss    d ss      sSSSs     sss. "
 print "S    S  S     S  S      S  ~O       S   ~o  S   ~o   S     S  d      "
 print "S    S S         S      S   `b      S     b S     b S       S Y      
 print "S    S S         S      S sSSO      S     S S     S S       S   ss.  "
