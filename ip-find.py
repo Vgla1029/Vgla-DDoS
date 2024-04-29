@@ -51,5 +51,6 @@ time.sleep(1)
 os.system("clear")
 print "[====================] 100%"
 time.sleep(1)
+vgla = "ping " + ip
 os.system("clear")
-os.system("ping %s" )(ip)
+os.system(vgla)
