@@ -39,12 +39,17 @@ ip = raw_input("Nome Do Site: ")
 os.system("clear")
 print "[                    ] 0% "
 time.sleep(1)
+os.system("clear")
 print "[=====               ] 25%"
 time.sleep(1)
+os.system("clear")
 print "[==========          ] 50%"
 time.sleep(1)
+os.system("clear")
 print "[===============     ] 75%"
 time.sleep(1)
+os.system("clear")
 print "[====================] 100%"
 time.sleep(1)
-os.system("ping %s" (ip))
+os.system("clear")
+os.system("ping %s" )(ip)
