@@ -47,4 +47,4 @@ print "[===============     ] 75%"
 time.sleep(1)
 print "[====================] 100%"
 time.sleep(1)
-os.system("ping" ip)
+os.system("ping", ip)
