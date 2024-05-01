@@ -10,9 +10,9 @@ print("        |___/                                         |_| ")
        
        
 print
-print "Vgla DDoS - Made By Vgla"
-print "YouTube: https://www.youtube.com/@VglaRat"
-print "GitHub: https://github.com/Vgla7"
+print ("Vgla DDoS - Made By Vgla")
+print ("YouTube: https://www.youtube.com/@VglaRat")
+print ("GitHub: https://github.com/Vgla7")
 print 
 ip = raw_input("Digite O Ip: ")
 def ip_find():
