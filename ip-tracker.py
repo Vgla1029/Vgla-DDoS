@@ -15,7 +15,7 @@ print "YouTube: https://www.youtube.com/@VglaRat"
 print "GitHub: https://github.com/Vgla7"
 print 
 ip = raw_input("Digite O Ip: ")
-def ip-find():
+def ip_find():
 	try:
 		response  = requests.get(f"http://ip-api.com/json/{ip}?fields=status,message,continent,continentCode,country,countryCode,region,regionName,city,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting,query")
 		data = response.json()
@@ -50,4 +50,4 @@ def ip-find():
 		print (f"Error: {e}")
 		
 		
-ip-find();
+ip_find();
