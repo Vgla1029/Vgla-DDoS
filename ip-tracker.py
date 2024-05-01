@@ -19,7 +19,7 @@ print(" ")
 ip = raw_input("Digite O Ip: ")
 def ip_find():
 	try:
-		url = f"http://ip-api.com/json/{ip}?fields=status,message,continent,continentCode,country,countryCode,region,regionName,city,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting,query"
+		url = "http://ip-api.com/json/{ip}?fields=status,message,continent,continentCode,country,countryCode,region,regionName,city,zip,lat,lon,timezone,offset,currency,isp,org,as,asname,reverse,mobile,proxy,hosting,query"
 		mds = requests.get(url)
 		data = mds.json()
 		print("\n")
